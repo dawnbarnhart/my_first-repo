@@ -1,0 +1,12 @@
+/* Write out your CSS selectors after you type your HTML */
+.wrapper {
+
+}
+.styleMe {
+    outline: 1px solid red;     
+
+    width: 500px;
+}
+.styleMe img {
+
+}
